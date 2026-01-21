@@ -14,14 +14,24 @@ from random import randint as random_integer
 # Emojis for on and off pixels
 ON = "⬜"
 OFF = "⬛"
+# fmt: off
+pixel_grid = [
+    [OFF, OFF, OFF], 
+    [OFF, OFF, OFF], 
+    [OFF, OFF, OFF]
+]
+# fmt: on
+
 # H x W screen
 HEIGHT = 5
 WIDTH = 5
-pixel_grid = [[OFF for _ in range(WIDTH)] for __ in range(HEIGHT)]
+# pixel_grid = [[OFF for _ in range(WIDTH)] for __ in range(HEIGHT)]
+
 
 # Edit this function to change what happens every frame
 def edit_pixel_grid():
     global pixel_grid
+
 
 # Pseudocode of how edit_pixel_grid is called:
 """
