@@ -1,7 +1,7 @@
 # Python Arrays Lecture Materials
 
 > [!WARNING]
-> This README is AI generated, based on lab materials
+> This README is AI generated based on the human-written materials in this repository
 
 ## Contents
 
@@ -28,3 +28,4 @@
   - **Tip:** Hold <kbd>Ctrl</kbd> and mouse over cells to draw.
   - Hold <kbd>Ctrl</kbd>+<kbd>Shift</kbd> and mouse over cells to undraw.
 - Review and extend the code for teaching or learning about Python arrays and sequences.
+
